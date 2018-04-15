@@ -1,0 +1,20 @@
+#wrapper {
+    width: 500px;
+    margin: auto;
+    height: auto;
+    text-align: center;
+    background-color: lightgray;
+}
+#header {
+    height: auto;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+#main-body {
+    background-color: rgb(167, 208, 221);
+    height: auto;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
